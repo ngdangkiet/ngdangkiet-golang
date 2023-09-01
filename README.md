@@ -1,3 +1,3 @@
-_**Be slow to fall into friendship; but when thou art in, continue firm and constant.**_
+_**There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.**_
 
-Isocrates
+Paramahansa Yogananda
