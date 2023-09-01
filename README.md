@@ -1,3 +1,3 @@
-_**There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.**_
+_**Time is the most valuable thing a man can spend.**_
 
-Paramahansa Yogananda
+Theophrastus
