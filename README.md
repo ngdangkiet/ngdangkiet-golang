@@ -1,3 +1,3 @@
-_**Time is the most valuable thing a man can spend.**_
+_**Wherever a man turns he can find someone who needs him.**_
 
-Theophrastus
+Albert Schweitzer
