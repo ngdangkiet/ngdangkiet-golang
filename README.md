@@ -1,3 +1,3 @@
-_**Time is the most valuable thing a man can spend.**_
+_**You need chaos in your soul to give birth to a dancing star.**_
 
-Theophrastus
+Friedrich Nietzsche
