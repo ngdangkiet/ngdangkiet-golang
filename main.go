@@ -2,12 +2,14 @@ package main
 
 import (
 	"fmt"
+	"github.com/gin-gonic/gin"
 	"github.com/goccy/go-json"
 	"github.com/joho/godotenv"
 	"io"
 	"log"
 	"net/http"
 	"os"
+	"time"
 )
 
 type Quotes struct {
@@ -33,22 +35,22 @@ func getJson(url string, data interface{}) error {
 	return json.NewDecoder(res.Body).Decode(data)
 }
 
-func getQuote(url string) (string, string) {
+func getQuote(url string) Quote {
 	var quotes Quotes
 
 	err := getJson(url, &quotes.Quotes)
 
 	if err != nil {
 		fmt.Printf("%v", err.Error())
-		return "", ""
+		return Quote{}
 	}
 
 	fmt.Println(quotes)
 
-	return quotes.Quotes[0].Content, quotes.Quotes[0].Author
+	return quotes.Quotes[0]
 }
 
-func generate(quote string, author string) {
+func generate(quote Quote) {
 	path := "README.md"
 
 	file, err := os.OpenFile(path, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0644)
@@ -62,7 +64,7 @@ func generate(quote string, author string) {
 		_ = file.Close()
 	}(file)
 
-	data := []byte(fmt.Sprintf("_**%s**_\n\n%s", quote, author))
+	data := []byte(fmt.Sprintf("_**%s**_\n\n%s", quote.Content, quote.Author))
 
 	_, err = file.Write(data)
 	if err != nil {
@@ -73,6 +75,30 @@ func generate(quote string, author string) {
 	fmt.Println("Write file successfully!")
 }
 
+func getQuoteRandom(c *gin.Context, quote Quote) {
+	c.JSONP(http.StatusOK, quote)
+}
+
+func restApi(port string, quote Quote) {
+	router := gin.Default()
+
+	router.GET("/quotes/random", func(c *gin.Context) {
+		getQuoteRandom(c, quote)
+	})
+
+	// goroutine
+	go func() {
+		if err := router.Run(fmt.Sprintf(":%s", port)); err != nil {
+			fmt.Println("Server error:", err)
+		}
+	}()
+
+	duration := 10 * time.Second
+	fmt.Printf("Server will automatically close after %s...\n", duration)
+	<-time.After(duration)
+	fmt.Println("Server is shutting down!")
+}
+
 func main() {
 	err := godotenv.Load(".env")
 	if err != nil {
@@ -80,10 +106,11 @@ func main() {
 	}
 
 	url := os.Getenv("URL")
+	port := os.Getenv("PORT")
+	quote := getQuote(url)
 
-	quote, author := getQuote(url)
-
-	if quote != "" && author != "" {
-		generate(quote, author)
+	if quote != (Quote{}) {
+		generate(quote)
+		restApi(port, quote)
 	}
 }
