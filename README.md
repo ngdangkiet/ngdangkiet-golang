@@ -1,3 +1,3 @@
-_**Wherever a man turns he can find someone who needs him.**_
+_**You need chaos in your soul to give birth to a dancing star.**_
 
-Albert Schweitzer
+Friedrich Nietzsche
