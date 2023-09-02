@@ -1,3 +1,3 @@
-_**You need chaos in your soul to give birth to a dancing star.**_
+_**The happiness of a man in this life does not consist in the absence but in the mastery of his passions.**_
 
-Friedrich Nietzsche
+Alfred Tennyson
