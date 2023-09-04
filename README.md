@@ -1,3 +1,3 @@
-_**He that is giddy thinks the world turns round.**_
+_**To improve is to change; to be perfect is to change often.**_
 
-William Shakespeare
+Winston Churchill
