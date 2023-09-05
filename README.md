@@ -1,3 +1,3 @@
-_**To improve is to change; to be perfect is to change often.**_
+_**The only real mistake is the one from which we learn nothing.**_
 
-Winston Churchill
+John Powell
