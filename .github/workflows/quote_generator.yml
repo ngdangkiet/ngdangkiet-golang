@@ -20,6 +20,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # Golang
       - name: Set up Go
         uses: actions/setup-go@v4
         with:
@@ -33,11 +34,10 @@ jobs:
           echo "PORT=$PORT" >> .env
           echo "URL=$URL" >> .env
 
-      - name: Build
-        run: go build -v ./...
-
-      - name: Test
-        run: go test -v ./...
+      - name: Build and Test
+        run: |
+          go build -v ./...
+          go test -v ./...
 
       - name: Run
         run: |
@@ -53,3 +53,12 @@ jobs:
           git add .
           git commit -m "Updated README.md at $timestamp" || echo "No changes to commit"
           git push
+
+      # Docker
+      - name: Docker Build, Tag and Push image
+        run: |
+          docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWD }}
+          docker build -t 01092002/ngdangkiet-golang:latest .
+          docker tag 01092002/ngdangkiet-golang:latest 01092002/ngdangkiet-golang:$(date +%Y%m%d%H%M%S)
+          docker push 01092002/ngdangkiet-golang:latest
+          docker push 01092002/ngdangkiet-golang:$(date +%Y%m%d%H%M%S)
