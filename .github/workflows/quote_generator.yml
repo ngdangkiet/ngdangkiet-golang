@@ -98,21 +98,17 @@ jobs:
           TIMESTAMP=$(TZ=Asia/Ho_Chi_Minh date +"%Y-%m-%d %H:%M:%S %Z")
           BRANCH_NAME=${{ steps.extract_branch.outputs.branch }}
           COMMIT_SHA=${{ env.GIT_COMMIT_SHORT_SHA }}
-          IMAGE_NAME="01092002/ngdangkiet-golang:latest"
-          IMAGE_TAG="$IMAGE_NAME-$BRANCH_NAME-$COMMIT_SHA-$TIMESTAMP"
+          IMAGE_NAME="01092002/ngdangkiet-golang"
+          IMAGE_TAG="latest-$BRANCH_NAME-$COMMIT_SHA-$TIMESTAMP"
           
           # Build the Docker image
-          docker build -t $IMAGE_NAME .
-          
-          # Tag the image with the branch name and commit hash
-          docker tag $IMAGE_NAME $IMAGE_TAG
+          docker build -t $IMAGE_NAME:$IMAGE_TAG .
           
           # Log in to Docker Hub
           echo $DOCKER_PASSWD | docker login -u $DOCKER_USERNAME --password-stdin
           
           # Push the images to Docker Hub
-          docker push $IMAGE_NAME
-          docker push $IMAGE_TAG
+          docker push $IMAGE_NAME:$IMAGE_TAG
         env:
           DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
           DOCKER_PASSWD: ${{ secrets.DOCKER_PASSWD }}
