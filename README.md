@@ -1,3 +1,3 @@
-_**Let the beauty of what you love be what you do.**_
+_**Silence is the true friend that never betrays.**_
 
-Rumi
+Confucius
