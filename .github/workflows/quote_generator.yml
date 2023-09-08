@@ -98,7 +98,7 @@ jobs:
       - name: Build and push Docker image
         run: |
           # Extract the branch name and commit hash
-          TIMESTAMP=$(TZ=Asia/Ho_Chi_Minh date +"%Y-%m-%d %H:%M:%S %Z")
+          TIMESTAMP=$(TZ=Asia/Ho_Chi_Minh date +"%Y%m%d%H%M%S")
           BRANCH_NAME=${{ steps.extract_branch.outputs.branch }}
           COMMIT_SHA=${{ env.GIT_COMMIT_SHORT_SHA }}
           IMAGE_NAME="01092002/ngdangkiet-golang"
