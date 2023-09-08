@@ -1,3 +1,3 @@
-_**Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.**_
+_**Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.**_
 
-Thomas Edison
+Robert Fulghum
