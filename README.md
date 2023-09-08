@@ -1,3 +1,3 @@
-_**There is a wisdom of the head, and a wisdom of the heart.**_
+_**Let the beauty of what you love be what you do.**_
 
-Charles Dickens
+Rumi
