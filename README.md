@@ -1,3 +1,3 @@
-_**It's only when the tide goes out that you discover who's been swimming naked.**_
+_**Yesterday's home runs don't win today's games.**_
 
-Warren Buffett
+Babe Ruth
