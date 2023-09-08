@@ -1,3 +1,3 @@
-_**The most I can do for my friend is simply be his friend.**_
+_**How wonderful that we have met with a paradox. Now we have some hope of making progress.**_
 
-Henry David Thoreau
+Niels Bohr
