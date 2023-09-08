@@ -9,9 +9,8 @@ on:
   pull_request:
     branches: [ "master" ]
   workflow_dispatch:
-  # every day
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
 
 jobs:
   build:
