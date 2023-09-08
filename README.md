@@ -1,3 +1,3 @@
-_**No one can make you feel inferior without your consent.**_
+_**The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.**_
 
-Eleanor Roosevelt
+Cicero
