@@ -60,7 +60,7 @@ jobs:
       # Docker
       - name: Docker Build, Tag and Push image
         run: |
-          docker login -u ${{ secrets.DOCKER_USERNAME }} --password-stdin ${{ secrets.DOCKER_PASSWD }}
+          echo: ${{ secrets.DOCKER_ACCESS_TOKEN }} | docker login -u ${{ secrets.DOCKER_USERNAME }} --password-stdin
           docker build -t 01092002/ngdangkiet-golang:latest .
           docker tag 01092002/ngdangkiet-golang:latest 01092002/ngdangkiet-golang:$(date +%Y%m%d%H%M%S)
           docker push 01092002/ngdangkiet-golang:latest
