@@ -89,8 +89,11 @@ jobs:
       - name: Git Commit Data
         uses: rlespinasse/git-commit-data-action@v1.5.0
 
-      - name: Setup Docker Buildx
-        uses: docker/setup-buildx-action@v1
+      - name: Docker Login
+        uses: docker/login-action@v2.2.0
+        with:
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_PASSWD }}
 
       - name: Build and push Docker image
         run: |
@@ -98,17 +101,11 @@ jobs:
           TIMESTAMP=$(TZ=Asia/Ho_Chi_Minh date +"%Y-%m-%d %H:%M:%S %Z")
           BRANCH_NAME=${{ steps.extract_branch.outputs.branch }}
           COMMIT_SHA=${{ env.GIT_COMMIT_SHORT_SHA }}
-          IMAGE_NAME="$DOCKER_USERNAME/ngdangkiet-golang"
+          IMAGE_NAME="01092002/ngdangkiet-golang"
           IMAGE_TAG="latest-$BRANCH_NAME-$COMMIT_SHA-$TIMESTAMP"
           
           # Build the Docker image
-          docker buildx build --tag $IMAGE_NAME:$IMAGE_TAG .
-          
-          # Log in to Docker Hub
-          echo $DOCKER_PASSWD | docker login -u $DOCKER_USERNAME --password-stdin
+          docker build -t $IMAGE_NAME:$IMAGE_TAG .
           
           # Push the images to Docker Hub
           docker push $IMAGE_NAME:$IMAGE_TAG
-        env:
-          DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
-          DOCKER_PASSWD: ${{ secrets.DOCKER_PASSWD }}
