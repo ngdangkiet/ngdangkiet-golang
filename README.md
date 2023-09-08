@@ -1,3 +1,3 @@
-_**Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.**_
+_**When the solution is simple, God is answering.**_
 
-Niccolò Machiavelli
+Albert Einstein
