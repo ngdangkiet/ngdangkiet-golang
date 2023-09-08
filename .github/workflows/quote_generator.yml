@@ -115,5 +115,5 @@ jobs:
           docker push $IMAGE_NAME
           docker push $IMAGE_TAG
         env:
-          DOCKER_USERNAME: ${{ secrets.$DOCKER_USERNAME }}
-          DOCKER_PASSWD: ${{ secrets.$DOCKER_PASSWD }}
+          DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
+          DOCKER_PASSWD: ${{ secrets.DOCKER_PASSWD }}
