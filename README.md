@@ -1,3 +1,3 @@
-_**When the solution is simple, God is answering.**_
+_**No one can make you feel inferior without your consent.**_
 
-Albert Einstein
+Eleanor Roosevelt
