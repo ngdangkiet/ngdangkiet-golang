@@ -1,3 +1,3 @@
-_**How wonderful that we have met with a paradox. Now we have some hope of making progress.**_
+_**Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.**_
 
-Niels Bohr
+Thomas Edison
