@@ -20,6 +20,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: Pull latest changes
+        run: git pull origin master
+
       # Golang
       - name: Set up Go
         uses: actions/setup-go@v4
