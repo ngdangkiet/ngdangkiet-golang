@@ -1,3 +1,3 @@
-_**Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.**_
+_**There is a wisdom of the head, and a wisdom of the heart.**_
 
-Jim Rohn
+Charles Dickens
