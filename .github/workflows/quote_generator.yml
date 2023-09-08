@@ -105,7 +105,7 @@ jobs:
           IMAGE_TAG="$BRANCH_NAME-$COMMIT_SHA-$TIMESTAMP"
           
           # Build the Docker image
-          docker build -t $IMAGE_NAME:latest .
+          docker build -t $IMAGE_NAME:$IMAGE_TAG .
           
           # Push the images to Docker Hub
           docker push $IMAGE_NAME:$IMAGE_TAG
