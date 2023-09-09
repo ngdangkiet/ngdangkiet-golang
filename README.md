@@ -1,3 +1,3 @@
-_**Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.**_
+_**There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.**_
 
-Robert Fulghum
+Mark Twain
