@@ -1,3 +1,3 @@
-_**There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.**_
+_**Every great advance in science has issued from a new audacity of the imagination.**_
 
-Mark Twain
+John Dewey
