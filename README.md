@@ -1,3 +1,3 @@
-_**If you smile when no one else is around, you really mean it.**_
+_**When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.**_
 
-Andy Rooney
+Audre Lorde
