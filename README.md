@@ -1,3 +1,3 @@
-_**When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.**_
+_**To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.**_
 
-Audre Lorde
+Muhammad Ali
