@@ -1,3 +1,3 @@
-_**The future is completely open, and we are writing it moment to moment.**_
+_**Experience keeps a dear school, but fools will learn in no other.**_
 
-Pema Chödrön
+Benjamin Franklin
