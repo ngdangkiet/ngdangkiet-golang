@@ -1,3 +1,3 @@
-_**Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.**_
+_**With pride, there are many curses. With humility, there come many blessings.**_
 
-Margaret Laurence
+Ezra Taft Benson
