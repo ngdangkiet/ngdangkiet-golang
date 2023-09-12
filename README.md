@@ -1,3 +1,3 @@
-_**Freedom is not worth having if it does not connote freedom to err.**_
+_**The farther backward you can look, the farther forward you can see.**_
 
-Mahatma Gandhi
+Winston Churchill
