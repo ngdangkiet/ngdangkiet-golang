@@ -114,6 +114,4 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         uses: Ilshidur/action-discord@master
         with:
-          message: |
-            New commit 👇
-            https://github.com/${{ github.repository }}/commit/${{ github.sha }}
+          args: 'The project ${{ github.repository }} has one new commit 👇'
