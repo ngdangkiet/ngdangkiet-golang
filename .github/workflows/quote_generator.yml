@@ -110,9 +110,8 @@ jobs:
           docker push $IMAGE_NAME:$IMAGE_TAG
 
       - name: Discord notification
-        uses: cl8dep/action-discord@master
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        uses: Ilshidur/action-discord@master
         with:
-          webhook: ${{ secrets.DISCORD_WEBHOOK }}
-          message: |
-            New commit 👇
-            https://github.com/${{ github.repository }}/commit/${{github.sha}}
+          args: 'The project ${{ EVENT_PAYLOAD.repository.full_name }} has one new commit 👇'
