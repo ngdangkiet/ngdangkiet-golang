@@ -1,3 +1,3 @@
-_**With pride, there are many curses. With humility, there come many blessings.**_
+_**The future is completely open, and we are writing it moment to moment.**_
 
-Ezra Taft Benson
+Pema Chödrön
