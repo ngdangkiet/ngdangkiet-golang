@@ -115,4 +115,4 @@ jobs:
           webhook_id: ${{ secrets.WEBHOOK_ID }}
           webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
           username: "Github Bot"
-          args: The ${{ github.repository }} has new one commit 👇
+          args: Hi Kiet 👋. The ${{ github.repository }} has new one commit. Please click on the link above 👆 to see commitment details
