@@ -1,3 +1,3 @@
-_**It has never been my object to record my dreams, just to realize them.**_
+_**Freedom is not worth having if it does not connote freedom to err.**_
 
-Man Ray
+Mahatma Gandhi
