@@ -110,7 +110,7 @@ jobs:
           docker push $IMAGE_NAME:$IMAGE_TAG
 
       - name: Discord notification
-        uses: cl8dep/action-discord@v0
+        uses: cl8dep/action-discord@master
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
           message: |
