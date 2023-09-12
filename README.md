@@ -1,3 +1,3 @@
-_**The farther backward you can look, the farther forward you can see.**_
+_**Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.**_
 
-Winston Churchill
+John Wooden
