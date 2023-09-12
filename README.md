@@ -1,3 +1,3 @@
-_**Nothing will work unless you do.**_
+_**Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.**_
 
-Maya Angelou
+Margaret Laurence
