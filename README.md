@@ -1,3 +1,3 @@
-_**Experience keeps a dear school, but fools will learn in no other.**_
+_**We shall never know all the good that a simple smile can do.**_
 
-Benjamin Franklin
+Mother Teresa
