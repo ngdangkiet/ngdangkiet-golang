@@ -1,3 +1,3 @@
-_**We shall never know all the good that a simple smile can do.**_
+_**A lie gets halfway around the world before the truth has a chance to get its pants on.**_
 
-Mother Teresa
+Winston Churchill
