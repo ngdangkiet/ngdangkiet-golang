@@ -1,3 +1,3 @@
-_**We are all something, but none of us are everything.**_
+_**Never bend your head. Always hold it high. Look the world right in the eye.**_
 
-Blaise Pascal
+Helen Keller
