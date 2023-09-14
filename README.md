@@ -1,3 +1,3 @@
-_**A lie gets halfway around the world before the truth has a chance to get its pants on.**_
+_**We are all something, but none of us are everything.**_
 
-Winston Churchill
+Blaise Pascal
