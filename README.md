@@ -1,3 +1,3 @@
-_**Never bend your head. Always hold it high. Look the world right in the eye.**_
+_**This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.**_
 
-Helen Keller
+Thomas Carlyle
