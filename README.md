@@ -1,3 +1,3 @@
-_**This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.**_
+_**Ask yourself the secret of your success. Listen to your answer and practice it.**_
 
-Thomas Carlyle
+Richard Bach
