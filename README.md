@@ -1,3 +1,3 @@
-_**The person who lives life fully, glowing with life's energy, is the person who lives a successful life.**_
+_**All phenomena are preceded by the mind, created by the mind, and have the mind as their master.**_
 
-Daisaku Ikeda
+The Buddha
