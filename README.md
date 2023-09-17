@@ -1,3 +1,3 @@
-_**All phenomena are preceded by the mind, created by the mind, and have the mind as their master.**_
+_**Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.**_
 
-The Buddha
+Samuel Johnson
