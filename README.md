@@ -1,3 +1,3 @@
-_**You're never a loser until you quit trying.**_
+_**A failure is a man who has blundered but is not capable of cashing in on the experience.**_
 
-Mike Ditka
+Elbert Hubbard
