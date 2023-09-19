@@ -1,3 +1,3 @@
-_**A failure is a man who has blundered but is not capable of cashing in on the experience.**_
+_**All truths are easy to understand once they are discovered; the point is to discover them.**_
 
-Elbert Hubbard
+Galileo Galilei
