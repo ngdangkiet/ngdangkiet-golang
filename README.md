@@ -1,3 +1,3 @@
-_**The superior man acts before he speaks, and afterwards speaks according to his action.**_
+_**When we are no longer able to change a situation - we are challenged to change ourselves.**_
 
-Confucius
+Viktor Frankl
