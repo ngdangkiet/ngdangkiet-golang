@@ -1,3 +1,3 @@
-_**When we are no longer able to change a situation - we are challenged to change ourselves.**_
+_**Just as a solid rock is not shaken by the storm, even so the wise are not affected by praise or blame.**_
 
-Viktor Frankl
+The Buddha
