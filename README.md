@@ -1,3 +1,3 @@
-_**The journey of a thousand miles begins with one step.**_
+_**Gratitude is not only the greatest of virtues, but the parent of all the others.**_
 
-Laozi
+Cicero
