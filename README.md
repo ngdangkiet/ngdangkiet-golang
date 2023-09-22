@@ -1,3 +1,3 @@
-_**Gratitude is not only the greatest of virtues, but the parent of all the others.**_
+_**Remember always that you not only have the right to be an individual, you have an obligation to be one.**_
 
-Cicero
+Eleanor Roosevelt
