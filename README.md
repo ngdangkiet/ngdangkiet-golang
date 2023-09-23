@@ -1,3 +1,3 @@
-_**Remember always that you not only have the right to be an individual, you have an obligation to be one.**_
+_**We can do no great things, only small things with great love.**_
 
-Eleanor Roosevelt
+Mother Teresa
