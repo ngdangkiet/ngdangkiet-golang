@@ -1,3 +1,3 @@
-_**America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.**_
+_**If you want your life to be more rewarding, you have to change the way you think.**_
 
-Parker Palmer
+Oprah Winfrey
