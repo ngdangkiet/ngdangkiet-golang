@@ -1,3 +1,3 @@
-_**If you want your life to be more rewarding, you have to change the way you think.**_
+_**The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.**_
 
-Oprah Winfrey
+Amelia Earhart
