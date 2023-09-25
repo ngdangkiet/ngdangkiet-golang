@@ -1,3 +1,3 @@
-_**Can you imagine what I would do if I could do all I can?**_
+_**A noble one produces an abundance of merit by having a compassionate mind towards all living beings.**_
 
-Sun Tzu
+The Buddha
