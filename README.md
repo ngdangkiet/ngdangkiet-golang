@@ -1,3 +1,3 @@
-_**Let my skin and sinews and bones dry up, together with all the flesh and blood of my body! I welcome it! But I will not move from this spot until I have attained the supreme and final wisdom.**_
+_**Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.**_
 
-The Buddha
+Lucille Ball
