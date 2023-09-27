@@ -1,3 +1,3 @@
-_**Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.**_
+_**If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.**_
 
-Lucille Ball
+John Steinbeck
