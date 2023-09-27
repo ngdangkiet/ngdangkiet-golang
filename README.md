@@ -1,3 +1,3 @@
-_**If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.**_
+_**Everything that irritates us about others can lead us to an understanding of ourselves.**_
 
-John Steinbeck
+Carl Jung
