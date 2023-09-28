@@ -1,3 +1,3 @@
-_**Everything that irritates us about others can lead us to an understanding of ourselves.**_
+_**Good, better, best. Never let it rest. ‘Til your good is better and your better is best.**_
 
-Carl Jung
+Jerome
