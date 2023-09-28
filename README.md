@@ -1,3 +1,3 @@
-_**Good, better, best. Never let it rest. ‘Til your good is better and your better is best.**_
+_**Be Impeccable with Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.**_
 
-Jerome
+Don Miguel Ruiz
