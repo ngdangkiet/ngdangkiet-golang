@@ -1,3 +1,3 @@
-_**Life is what you make of it. Always has been, always will be.**_
+_**For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.**_
 
-Grandma Moses
+Audrey Hepburn
