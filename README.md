@@ -1,3 +1,3 @@
-_**Eternal nothingness is fine if you happen to be dressed for it.**_
+_**Life is what you make of it. Always has been, always will be.**_
 
-Woody Allen
+Grandma Moses
