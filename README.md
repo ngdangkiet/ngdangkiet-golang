@@ -1,3 +1,3 @@
-_**The future is completely open, and we are writing it moment to moment.**_
+_**Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'**_
 
-Pema Chödrön
+Bill Bradley
