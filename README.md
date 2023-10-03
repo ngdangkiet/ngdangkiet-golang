@@ -1,3 +1,3 @@
-_**Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'**_
+_**I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.**_
 
-Bill Bradley
+Og Mandino
