@@ -1,3 +1,3 @@
-_**I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.**_
+_**Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.**_
 
-Og Mandino
+Bernice Reagon
