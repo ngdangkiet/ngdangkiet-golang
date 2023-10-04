@@ -1,3 +1,3 @@
-_**Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.**_
+_**Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.**_
 
-Bernice Reagon
+Eleanor Roosevelt
