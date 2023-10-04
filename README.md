@@ -1,3 +1,3 @@
-_**Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.**_
+_**Speak low, if you speak love.**_
 
-Eleanor Roosevelt
+William Shakespeare
