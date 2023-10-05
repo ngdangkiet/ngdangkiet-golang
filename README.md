@@ -1,3 +1,3 @@
-_**The poor man is not he who is without a cent, but he who is without a dream.**_
+_**Good judgment comes from experience, and a lot of that comes from bad judgment.**_
 
-Harry Kemp
+Will Rogers
