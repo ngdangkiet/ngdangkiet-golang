@@ -1,3 +1,3 @@
-_**Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.**_
+_**The key is to keep company only with people who uplift you, whose presence calls forth your best.**_
 
-H. Jackson Brown Jr.
+Epictetus
