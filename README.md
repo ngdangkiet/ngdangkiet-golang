@@ -1,3 +1,3 @@
-_**Good judgment comes from experience, and a lot of that comes from bad judgment.**_
+_**Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.**_
 
-Will Rogers
+H. Jackson Brown Jr.
