@@ -1,3 +1,3 @@
-_**The key is to keep company only with people who uplift you, whose presence calls forth your best.**_
+_**All this modern technology just makes people try to do everything at once.**_
 
-Epictetus
+Bill Watterson
