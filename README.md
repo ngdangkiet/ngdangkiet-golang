@@ -1,3 +1,3 @@
-_**All this modern technology just makes people try to do everything at once.**_
+_**I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.**_
 
-Bill Watterson
+G. K. Chesterton
