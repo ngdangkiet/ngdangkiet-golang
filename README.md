@@ -1,3 +1,3 @@
-_**I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.**_
+_**To improve is to change; to be perfect is to change often.**_
 
-G. K. Chesterton
+Winston Churchill
