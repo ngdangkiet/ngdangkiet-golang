@@ -1,3 +1,3 @@
-_**And the attitude of faith is the very opposite of clinging to belief, of holding on.**_
+_**I love you the more in that I believe you had liked me for my own sake and for nothing else.**_
 
-Alan Watts
+John Keats
