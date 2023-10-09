@@ -1,3 +1,3 @@
-_**I love you the more in that I believe you had liked me for my own sake and for nothing else.**_
+_**I can't listen to that much Wagner. I start getting the urge to conquer Poland.**_
 
-John Keats
+Woody Allen
