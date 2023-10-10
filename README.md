@@ -1,3 +1,3 @@
-_**I can't listen to that much Wagner. I start getting the urge to conquer Poland.**_
+_**If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.**_
 
-Woody Allen
+Albert Einstein
