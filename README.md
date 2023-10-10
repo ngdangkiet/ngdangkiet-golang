@@ -1,3 +1,3 @@
-_**If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.**_
+_**Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.**_
 
-Albert Einstein
+Woodrow Wilson
