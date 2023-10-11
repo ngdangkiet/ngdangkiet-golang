@@ -1,3 +1,3 @@
-_**Think how hard physics would be if particles could think.**_
+_**We never live; we are always in the expectation of living.**_
 
-Murray Gell-Mann
+Voltaire
