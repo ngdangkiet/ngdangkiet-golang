@@ -1,3 +1,3 @@
-_**Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.**_
+_**Think how hard physics would be if particles could think.**_
 
-Woodrow Wilson
+Murray Gell-Mann
