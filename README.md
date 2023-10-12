@@ -1,3 +1,3 @@
-_**All is flux; nothing stays still.**_
+_**You are always free to change your mind and choose a different future, or a different past.**_
 
-Heraclitus
+Richard Bach
