@@ -1,3 +1,3 @@
-_**We never live; we are always in the expectation of living.**_
+_**All is flux; nothing stays still.**_
 
-Voltaire
+Heraclitus
