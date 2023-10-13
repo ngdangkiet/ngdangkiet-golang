@@ -1,3 +1,3 @@
-_**You are always free to change your mind and choose a different future, or a different past.**_
+_**It is one of the blessings of old friends that you can afford to be stupid with them.**_
 
-Richard Bach
+Ralph Waldo Emerson
