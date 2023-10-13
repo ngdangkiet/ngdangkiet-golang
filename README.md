@@ -1,3 +1,3 @@
-_**It is one of the blessings of old friends that you can afford to be stupid with them.**_
+_**Avoid having your ego so close to your position that when your position falls, your ego goes with it.**_
 
-Ralph Waldo Emerson
+Colin Powell
