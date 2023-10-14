@@ -1,3 +1,3 @@
-_**Avoid having your ego so close to your position that when your position falls, your ego goes with it.**_
+_**The thing always happens that you really believe in; and the belief in a thing makes it happen.**_
 
-Colin Powell
+Frank Lloyd Wright
