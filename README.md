@@ -1,3 +1,3 @@
-_**The thing always happens that you really believe in; and the belief in a thing makes it happen.**_
+_**What lies behind us and what lies before us are small matters compared to what lies within us.**_
 
-Frank Lloyd Wright
+Oliver Wendell Holmes Jr.
