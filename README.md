@@ -1,3 +1,3 @@
-_**There surely is in human nature an inherent propensity to extract all the good out of all the evil.**_
+_**To choose what is difficult all one's days, as if it were easy, that is faith.**_
 
-Benjamin Haydon
+W. H. Auden
