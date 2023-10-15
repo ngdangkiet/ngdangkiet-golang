@@ -1,3 +1,3 @@
-_**What lies behind us and what lies before us are small matters compared to what lies within us.**_
+_**There surely is in human nature an inherent propensity to extract all the good out of all the evil.**_
 
-Oliver Wendell Holmes Jr.
+Benjamin Haydon
