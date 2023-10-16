@@ -1,3 +1,3 @@
-_**To choose what is difficult all one's days, as if it were easy, that is faith.**_
+_**Time stays long enough for anyone who will use it.**_
 
-W. H. Auden
+Leonardo da Vinci
