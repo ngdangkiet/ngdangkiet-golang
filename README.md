@@ -1,3 +1,3 @@
-_**Time stays long enough for anyone who will use it.**_
+_**Maxim for life: You get treated in life the way you teach people to treat you.**_
 
-Leonardo da Vinci
+Wayne Dyer
