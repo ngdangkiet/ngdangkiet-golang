@@ -1,3 +1,3 @@
-_**Maxim for life: You get treated in life the way you teach people to treat you.**_
+_**We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.**_
 
-Wayne Dyer
+James Freeman Clarke
