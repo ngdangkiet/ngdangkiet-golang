@@ -1,3 +1,3 @@
-_**Patience is the companion of wisdom.**_
+_**One may say the eternal mystery of the world is its comprehensibility.**_
 
-Augustine of Hippo
+Albert Einstein
