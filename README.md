@@ -1,3 +1,3 @@
-_**All know the way; few actually walk it.**_
+_**Patience is the companion of wisdom.**_
 
-Bodhidharma
+Augustine of Hippo
