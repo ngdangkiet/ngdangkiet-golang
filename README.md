@@ -1,3 +1,3 @@
-_**One may say the eternal mystery of the world is its comprehensibility.**_
+_**By accepting yourself and being fully what you are, your presence can make others happy.**_
 
-Albert Einstein
+Jane Roberts
