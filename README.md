@@ -1,3 +1,3 @@
-_**Your talent is God's gift to you. What you do with it is your gift back to God.**_
+_**Wisdom is found only in truth.**_
 
-Leo Buscaglia
+Johann Wolfgang von Goethe
