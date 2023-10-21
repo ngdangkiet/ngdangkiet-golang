@@ -1,3 +1,3 @@
-_**Nothing in life is to be feared. It is only to be understood.**_
+_**I never see what has been done; I only see what remains to be done.**_
 
 Marie Curie
