@@ -1,3 +1,3 @@
-_**Wisdom is found only in truth.**_
+_**Nothing in life is to be feared. It is only to be understood.**_
 
-Johann Wolfgang von Goethe
+Marie Curie
