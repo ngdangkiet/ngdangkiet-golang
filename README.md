@@ -1,3 +1,3 @@
-_**The least movement is of importance to all nature. The entire ocean is affected by a pebble.**_
+_**The exercise of an extraordinary gift is the supremist pleasure in life.**_
 
-Blaise Pascal
+Mark Twain
