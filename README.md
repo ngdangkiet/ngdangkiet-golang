@@ -1,3 +1,3 @@
-_**I never see what has been done; I only see what remains to be done.**_
+_**The least movement is of importance to all nature. The entire ocean is affected by a pebble.**_
 
-Marie Curie
+Blaise Pascal
