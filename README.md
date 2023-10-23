@@ -1,3 +1,3 @@
-_**The exercise of an extraordinary gift is the supremist pleasure in life.**_
+_**When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.**_
 
-Mark Twain
+Confucius
