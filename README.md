@@ -1,3 +1,3 @@
-_**When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.**_
+_**To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.**_
 
-Confucius
+Kahlil Gibran
