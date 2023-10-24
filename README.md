@@ -1,3 +1,3 @@
-_**To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.**_
+_**Nothing ever goes away until it has taught us what we need to know.**_
 
-Kahlil Gibran
+Pema Chödrön
