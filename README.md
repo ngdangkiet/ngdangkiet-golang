@@ -1,3 +1,3 @@
-_**Nothing ever goes away until it has taught us what we need to know.**_
+_**Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster.**_
 
-Pema Chödrön
+Joe Adcock
