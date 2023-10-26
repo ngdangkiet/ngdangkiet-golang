@@ -1,3 +1,3 @@
-_**Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.**_
+_**They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.**_
 
-Laozi
+The Buddha
