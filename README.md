@@ -1,3 +1,3 @@
-_**They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.**_
+_**There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.**_
 
-The Buddha
+Nelson Mandela
