@@ -1,3 +1,3 @@
-_**Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.**_
+_**If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.**_
 
-John Wooden
+Dalai Lama
