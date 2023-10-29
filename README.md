@@ -1,3 +1,3 @@
-_**It is not a lack of love, but a lack of friendship that makes unhappy marriages.**_
+_**True friendship ought never to conceal what it thinks.**_
 
-Friedrich Nietzsche
+Jerome
