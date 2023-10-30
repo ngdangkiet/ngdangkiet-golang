@@ -1,3 +1,3 @@
-_**Never find fault with the absent.**_
+_**Correction does much, but encouragement does more.**_
 
-Alexander Pope
+Johann Wolfgang von Goethe
