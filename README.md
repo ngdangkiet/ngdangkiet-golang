@@ -1,3 +1,3 @@
-_**True friendship ought never to conceal what it thinks.**_
+_**Never find fault with the absent.**_
 
-Jerome
+Alexander Pope
