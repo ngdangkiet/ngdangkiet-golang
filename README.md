@@ -1,3 +1,3 @@
-_**Correction does much, but encouragement does more.**_
+_**We know the truth, not only by the reason, but by the heart.**_
 
-Johann Wolfgang von Goethe
+Blaise Pascal
