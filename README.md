@@ -1,3 +1,3 @@
-_**Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.**_
+_**Time is the most valuable thing a man can spend.**_
 
-Albert Schweitzer
+Theophrastus
