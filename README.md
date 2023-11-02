@@ -1,3 +1,3 @@
-_**The biggest adventure you can ever take is to live the life of your dreams.**_
+_**Never, never, never give up.**_
 
-Oprah Winfrey
+Winston Churchill
