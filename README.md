@@ -1,3 +1,3 @@
-_**Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.**_
+_**The biggest adventure you can ever take is to live the life of your dreams.**_
 
-Washington Irving
+Oprah Winfrey
