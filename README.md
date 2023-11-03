@@ -1,3 +1,3 @@
-_**Never, never, never give up.**_
+_**Do not turn back when you are just at the goal.**_
 
-Winston Churchill
+Publilius Syrus
