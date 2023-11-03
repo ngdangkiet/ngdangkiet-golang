@@ -1,3 +1,3 @@
-_**Do not turn back when you are just at the goal.**_
+_**Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.**_
 
-Publilius Syrus
+Ernie Banks
