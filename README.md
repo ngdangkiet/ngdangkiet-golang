@@ -1,3 +1,3 @@
-_**Pick battles big enough to matter, small enough to win.**_
+_**Small opportunities are often the beginning of great enterprises.**_
 
-Jonathan Kozol
+Demosthenes
