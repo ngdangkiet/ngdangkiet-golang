@@ -1,3 +1,3 @@
-_**Small opportunities are often the beginning of great enterprises.**_
+_**Never find fault with the absent.**_
 
-Demosthenes
+Alexander Pope
