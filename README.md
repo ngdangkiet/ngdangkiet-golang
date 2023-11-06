@@ -1,3 +1,3 @@
-_**The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?**_
+_**It is the neglect of timely repair that makes rebuilding necessary.**_
 
-The Buddha
+Richard Whately
