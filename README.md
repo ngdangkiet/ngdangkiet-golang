@@ -1,3 +1,3 @@
-_**If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.**_
+_**The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?**_
 
-Sophocles
+The Buddha
