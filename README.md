@@ -1,3 +1,3 @@
-_**It is the neglect of timely repair that makes rebuilding necessary.**_
+_**Be sure you put your feet in the right place, then stand firm.**_
 
-Richard Whately
+Abraham Lincoln
