@@ -1,3 +1,3 @@
-_**Be sure you put your feet in the right place, then stand firm.**_
+_**The important thing is this: to be able at any moment to sacrifice what we are for what we could become.**_
 
-Abraham Lincoln
+Charles Du Bos
