@@ -1,3 +1,3 @@
-_**Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?**_
+_**Wise men talk because they have something to say; fools, because they have to say something.**_
 
-George Eliot
+Plato
