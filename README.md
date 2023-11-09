@@ -1,3 +1,3 @@
-_**Wise men talk because they have something to say; fools, because they have to say something.**_
+_**Don't look back. Something might be gaining on you.**_
 
-Plato
+Satchel Paige
