@@ -1,3 +1,3 @@
-_**You must do the things you think you cannot do.**_
+_**Think like a man of action; act like a man of thought.**_
 
-Eleanor Roosevelt
+Henri Bergson
