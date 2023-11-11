@@ -1,3 +1,3 @@
-_**Think like a man of action; act like a man of thought.**_
+_**The future is completely open, and we are writing it moment to moment.**_
 
-Henri Bergson
+Pema Chödrön
