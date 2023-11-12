@@ -1,3 +1,3 @@
-_**If one does not know to which port is sailing, no wind is favorable.**_
+_**Never put off till tomorrow what you can do today.**_
 
-Seneca the Younger
+Thomas Jefferson
