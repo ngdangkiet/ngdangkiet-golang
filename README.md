@@ -1,3 +1,3 @@
-_**The future is completely open, and we are writing it moment to moment.**_
+_**If one does not know to which port is sailing, no wind is favorable.**_
 
-Pema Chödrön
+Seneca the Younger
