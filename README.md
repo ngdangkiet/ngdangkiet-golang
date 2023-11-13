@@ -1,3 +1,3 @@
-_**Never put off till tomorrow what you can do today.**_
+_**No garden is without its weeds.**_
 
-Thomas Jefferson
+Thomas Fuller
