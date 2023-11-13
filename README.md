@@ -1,3 +1,3 @@
-_**No garden is without its weeds.**_
+_**Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.**_
 
-Thomas Fuller
+Sri Chinmoy
