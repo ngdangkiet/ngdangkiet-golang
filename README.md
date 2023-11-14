@@ -1,3 +1,3 @@
-_**Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.**_
+_**It is with our passions, as it is with fire and water, they are good servants but bad masters.**_
 
-Sri Chinmoy
+Aesop
