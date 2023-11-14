@@ -1,3 +1,3 @@
-_**It is with our passions, as it is with fire and water, they are good servants but bad masters.**_
+_**Anything you really want, you can attain, if you really go after it.**_
 
-Aesop
+Wayne Dyer
