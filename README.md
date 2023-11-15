@@ -1,3 +1,3 @@
-_**If I know what love is, it is because of you.**_
+_**One who is too insistent on his own views, finds few to agree with him.**_
 
-Hermann Hesse
+Laozi
