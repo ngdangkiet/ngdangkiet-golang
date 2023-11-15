@@ -1,3 +1,3 @@
-_**Anything you really want, you can attain, if you really go after it.**_
+_**If I know what love is, it is because of you.**_
 
-Wayne Dyer
+Hermann Hesse
