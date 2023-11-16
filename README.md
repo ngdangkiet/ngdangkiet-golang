@@ -1,3 +1,3 @@
-_**One who is too insistent on his own views, finds few to agree with him.**_
+_**Honesty is the best policy.**_
 
-Laozi
+Benjamin Franklin
