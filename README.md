@@ -1,3 +1,3 @@
-_**Genius unrefined resembles a flash of lightning, but wisdom is like the sun.**_
+_**It is impossible to love and to be wise.**_
 
-Franz Grillparzer
+Francis Bacon
