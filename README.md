@@ -1,3 +1,3 @@
-_**Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.**_
+_**Kindness is the golden chain by which society is bound together.**_
 
-Dale Turner
+Johann Wolfgang von Goethe
