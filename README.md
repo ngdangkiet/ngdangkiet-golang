@@ -1,3 +1,3 @@
-_**Kindness is the golden chain by which society is bound together.**_
+_**Work for something because it is good, not just because it stands a chance to succeed.**_
 
-Johann Wolfgang von Goethe
+Václav Havel
