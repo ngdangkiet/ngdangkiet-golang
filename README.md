@@ -1,3 +1,3 @@
-_**Work for something because it is good, not just because it stands a chance to succeed.**_
+_**Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.**_
 
-Václav Havel
+Lucille Ball
