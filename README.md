@@ -1,3 +1,3 @@
-_**To invent, you need a good imagination and a pile of junk.**_
+_**Watch the little things; a small leak will sink a great ship.**_
 
-Thomas Edison
+Benjamin Franklin
