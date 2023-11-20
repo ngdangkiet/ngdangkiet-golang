@@ -1,3 +1,3 @@
-_**By failing to prepare, you are preparing to fail.**_
+_**To invent, you need a good imagination and a pile of junk.**_
 
-Benjamin Franklin
+Thomas Edison
