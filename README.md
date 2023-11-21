@@ -1,3 +1,3 @@
-_**I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.**_
+_**The art challenges the technology, and the technology inspires the art.**_
 
-Plutarch
+John Lasseter
