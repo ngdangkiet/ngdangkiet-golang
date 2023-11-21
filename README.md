@@ -1,3 +1,3 @@
-_**Watch the little things; a small leak will sink a great ship.**_
+_**I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.**_
 
-Benjamin Franklin
+Plutarch
