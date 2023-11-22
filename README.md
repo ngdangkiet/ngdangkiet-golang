@@ -1,3 +1,3 @@
-_**The art challenges the technology, and the technology inspires the art.**_
+_**Think like a man of action; act like a man of thought.**_
 
-John Lasseter
+Henri Bergson
