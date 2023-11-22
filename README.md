@@ -1,3 +1,3 @@
-_**Think like a man of action; act like a man of thought.**_
+_**A single rose can be my garden... a single friend, my world.**_
 
-Henri Bergson
+Leo Buscaglia
