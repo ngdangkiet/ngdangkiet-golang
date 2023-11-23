@@ -1,3 +1,3 @@
-_**A single rose can be my garden... a single friend, my world.**_
+_**You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.**_
 
-Leo Buscaglia
+Albert Camus
