@@ -1,3 +1,3 @@
-_**Be great in act, as you have been in thought.**_
+_**The superior man blames himself. The inferior man blames others.**_
 
-William Shakespeare
+Don Shula
