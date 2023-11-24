@@ -1,3 +1,3 @@
-_**We have committed the Golden Rule to memory; let us now commit it to life.**_
+_**Be great in act, as you have been in thought.**_
 
-Edwin Markham
+William Shakespeare
