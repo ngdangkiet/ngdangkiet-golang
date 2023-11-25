@@ -1,3 +1,3 @@
-_**You were not born a winner, and you were not born a loser. You are what you make yourself be.**_
+_**So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself.**_
 
-Lou Holtz
+Alan Watts
