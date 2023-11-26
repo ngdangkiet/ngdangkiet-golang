@@ -1,3 +1,3 @@
-_**Absence makes the heart grow fonder.**_
+_**Mountains cannot be surmounted except by winding paths.**_
 
-Thomas Haynes Bayly
+Johann Wolfgang von Goethe
