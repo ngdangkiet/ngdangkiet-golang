@@ -1,3 +1,3 @@
-_**So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself.**_
+_**Absence makes the heart grow fonder.**_
 
-Alan Watts
+Thomas Haynes Bayly
