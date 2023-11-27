@@ -1,3 +1,3 @@
-_**Mountains cannot be surmounted except by winding paths.**_
+_**You can't blame gravity for falling in love.**_
 
-Johann Wolfgang von Goethe
+Albert Einstein
