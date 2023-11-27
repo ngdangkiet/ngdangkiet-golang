@@ -1,3 +1,3 @@
-_**You can't blame gravity for falling in love.**_
+_**Fears are nothing more than a state of mind.**_
 
-Albert Einstein
+Napoleon Hill
