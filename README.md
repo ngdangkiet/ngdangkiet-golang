@@ -1,3 +1,3 @@
-_**Fears are nothing more than a state of mind.**_
+_**You're never a loser until you quit trying.**_
 
-Napoleon Hill
+Mike Ditka
