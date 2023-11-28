@@ -1,3 +1,3 @@
-_**You're never a loser until you quit trying.**_
+_**In the depth of winter, I finally learned that there was within me an invincible summer.**_
 
-Mike Ditka
+Albert Camus
