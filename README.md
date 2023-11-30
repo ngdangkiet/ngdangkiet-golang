@@ -1,3 +1,3 @@
-_**Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.**_
+_**If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.**_
 
-Richard Bach
+Johann Wolfgang von Goethe
