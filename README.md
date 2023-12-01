@@ -1,3 +1,3 @@
-_**If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.**_
+_**Cunning... is but the low mimic of wisdom.**_
 
-Johann Wolfgang von Goethe
+Plato
