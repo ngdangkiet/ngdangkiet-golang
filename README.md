@@ -1,3 +1,3 @@
-_**Cunning... is but the low mimic of wisdom.**_
+_**Train up a fig tree in the way it should go, and when you are old sit under the shade of it.**_
 
-Plato
+Charles Dickens
