@@ -1,3 +1,3 @@
-_**It is the quality of our work which will please God, not the quantity.**_
+_**When one tugs at a single thing in nature, he finds it attached to the rest of the world.**_
 
-Mahatma Gandhi
+John Muir
