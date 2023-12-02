@@ -1,3 +1,3 @@
-_**Train up a fig tree in the way it should go, and when you are old sit under the shade of it.**_
+_**It is the quality of our work which will please God, not the quantity.**_
 
-Charles Dickens
+Mahatma Gandhi
