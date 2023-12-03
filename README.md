@@ -1,3 +1,3 @@
-_**Arriving at one point is the starting point to another.**_
+_**Believe you can and you're halfway there.**_
 
-John Dewey
+Theodore Roosevelt
