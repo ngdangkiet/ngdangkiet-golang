@@ -1,3 +1,3 @@
-_**Believe you can and you're halfway there.**_
+_**Gratitude is the fairest blossom which springs from the soul.**_
 
-Theodore Roosevelt
+Henry K. Beecher
