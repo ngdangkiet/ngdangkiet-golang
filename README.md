@@ -1,3 +1,3 @@
-_**Gratitude is the fairest blossom which springs from the soul.**_
+_**Don't look back. Something might be gaining on you.**_
 
-Henry K. Beecher
+Satchel Paige
