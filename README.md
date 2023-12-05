@@ -1,3 +1,3 @@
-_**Don't look back. Something might be gaining on you.**_
+_**There are no secrets to success. It is the result of preparation, hard work, and learning from failure.**_
 
-Satchel Paige
+Colin Powell
