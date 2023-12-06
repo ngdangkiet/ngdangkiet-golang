@@ -1,3 +1,3 @@
-_**Wherever you go, go with all your heart.**_
+_**God has given you one face, and you make yourself another.**_
 
-Confucius
+William Shakespeare
