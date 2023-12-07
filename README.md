@@ -1,3 +1,3 @@
-_**The greatest minds are capable of the greatest vices as well as of the greatest virtues.**_
+_**One of the most beautiful qualities of true friendship is to understand and to be understood.**_
 
-René Descartes
+Seneca the Younger
