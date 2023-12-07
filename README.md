@@ -1,3 +1,3 @@
-_**God has given you one face, and you make yourself another.**_
+_**The greatest minds are capable of the greatest vices as well as of the greatest virtues.**_
 
-William Shakespeare
+René Descartes
