@@ -1,3 +1,3 @@
-_**One of the most beautiful qualities of true friendship is to understand and to be understood.**_
+_**No alibi will save you from accepting the responsibility.**_
 
-Seneca the Younger
+Napoleon Hill
