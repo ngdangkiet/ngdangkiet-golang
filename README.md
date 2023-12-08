@@ -1,3 +1,3 @@
-_**No alibi will save you from accepting the responsibility.**_
+_**To be wronged is nothing unless you continue to remember it.**_
 
-Napoleon Hill
+Confucius
