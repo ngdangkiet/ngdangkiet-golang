@@ -1,3 +1,3 @@
-_**Friendship always benefits; love sometimes injures.**_
+_**When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.**_
 
-Seneca the Younger
+Joseph Campbell
