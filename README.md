@@ -1,3 +1,3 @@
-_**When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.**_
+_**If one does not know to which port is sailing, no wind is favorable.**_
 
-Joseph Campbell
+Seneca the Younger
