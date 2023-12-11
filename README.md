@@ -1,3 +1,3 @@
-_**If one does not know to which port is sailing, no wind is favorable.**_
+_**Share your smile with the world. It's a symbol of friendship and peace.**_
 
-Seneca the Younger
+Christie Brinkley
