@@ -1,3 +1,3 @@
-_**Share your smile with the world. It's a symbol of friendship and peace.**_
+_**It all depends on how we look at things, and not how they are in themselves.**_
 
-Christie Brinkley
+Carl Jung
