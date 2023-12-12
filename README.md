@@ -1,3 +1,3 @@
-_**The lure of the distant and the difficult is deceptive. The great opportunity is where you are.**_
+_**Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.**_
 
-John Burroughs
+Robert Graves
