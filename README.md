@@ -1,3 +1,3 @@
-_**It all depends on how we look at things, and not how they are in themselves.**_
+_**The lure of the distant and the difficult is deceptive. The great opportunity is where you are.**_
 
-Carl Jung
+John Burroughs
