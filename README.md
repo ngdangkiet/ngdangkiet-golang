@@ -1,3 +1,3 @@
-_**Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.**_
+_**From error to error one discovers the entire truth.**_
 
-Robert Graves
+Sigmund Freud
