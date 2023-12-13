@@ -1,3 +1,3 @@
-_**From error to error one discovers the entire truth.**_
+_**To avoid criticism, do nothing, say nothing, be nothing.**_
 
-Sigmund Freud
+Elbert Hubbard
