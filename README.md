@@ -1,3 +1,3 @@
-_**Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.**_
+_**The attempt to combine wisdom and power has only rarely been successful and then only for a short while.**_
 
-Henry van Dyke Jr.
+Albert Einstein
