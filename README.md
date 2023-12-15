@@ -1,3 +1,3 @@
-_**The attempt to combine wisdom and power has only rarely been successful and then only for a short while.**_
+_**The only real mistake is the one from which we learn nothing.**_
 
-Albert Einstein
+John Powell
