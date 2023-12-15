@@ -1,3 +1,3 @@
-_**The only real mistake is the one from which we learn nothing.**_
+_**A rolling stone gathers no moss.**_
 
-John Powell
+Publilius Syrus
