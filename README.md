@@ -1,3 +1,3 @@
-_**Conditions fall apart. Persist with diligence.**_
+_**It's so simple to be wise. Just think of something stupid to say and then don't say it.**_
 
-The Buddha
+Sam Levenson
