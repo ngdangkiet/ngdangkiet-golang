@@ -1,3 +1,3 @@
-_**We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution.**_
+_**The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.**_
 
-Abraham Lincoln
+Helen Keller
