@@ -1,3 +1,3 @@
-_**I'll prepare and someday my chance will come.**_
+_**Love is rarer than genius itself. And friendship is rarer than love.**_
 
-Abraham Lincoln
+Charles Péguy
