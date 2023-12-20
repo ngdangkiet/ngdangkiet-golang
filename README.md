@@ -1,3 +1,3 @@
-_**Love is rarer than genius itself. And friendship is rarer than love.**_
+_**To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.**_
 
-Charles Péguy
+The Buddha
