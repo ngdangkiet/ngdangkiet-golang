@@ -1,3 +1,3 @@
-_**To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.**_
+_**Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer.**_
 
-The Buddha
+Ted Williams
