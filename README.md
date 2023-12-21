@@ -1,3 +1,3 @@
-_**Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer.**_
+_**If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.**_
 
-Ted Williams
+Jim Rohn
