@@ -1,3 +1,3 @@
-_**Commitment is an act, not a word.**_
+_**Being entirely honest with oneself is a good exercise.**_
 
-Jean-Paul Sartre
+Sigmund Freud
