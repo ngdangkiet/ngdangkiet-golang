@@ -1,3 +1,3 @@
-_**You can't let praise or criticism get to you. It's a weakness to get caught up in either one.**_
+_**Commitment is an act, not a word.**_
 
-John Wooden
+Jean-Paul Sartre
