@@ -1,3 +1,3 @@
-_**Every friendship is different because everyone's personality is different.**_
+_**Keep silence for the most part, and speak only when you must, and then briefly.**_
 
-Nargis Fakhri
+Epictetus
