@@ -1,3 +1,3 @@
-_**Being entirely honest with oneself is a good exercise.**_
+_**Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.**_
 
-Sigmund Freud
+Jane Addams
