@@ -1,3 +1,3 @@
-_**Keep silence for the most part, and speak only when you must, and then briefly.**_
+_**It's not what you look at that matters, it's what you see.**_
 
-Epictetus
+Henry David Thoreau
