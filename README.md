@@ -1,3 +1,3 @@
-_**It's not what you look at that matters, it's what you see.**_
+_**Happiness is the reward we get for living to the highest right we know.**_
 
-Henry David Thoreau
+Richard Bach
