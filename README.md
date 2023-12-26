@@ -1,3 +1,3 @@
-_**Happiness is the reward we get for living to the highest right we know.**_
+_**Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.**_
 
-Richard Bach
+Marcel Proust
