@@ -1,3 +1,3 @@
-_**Most people never run far enough on their first wind to find out they've got a second.**_
+_**True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.**_
 
-William James
+George Washington
