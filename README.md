@@ -1,3 +1,3 @@
-_**True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.**_
+_**As you think, so shall you become.**_
 
-George Washington
+Bruce Lee
