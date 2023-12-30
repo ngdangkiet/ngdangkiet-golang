@@ -1,3 +1,3 @@
-_**As you think, so shall you become.**_
+_**If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.**_
 
-Bruce Lee
+Sophocles
