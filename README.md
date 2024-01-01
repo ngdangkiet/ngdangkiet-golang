@@ -1,3 +1,3 @@
-_**When your desires are strong enough you will appear to possess superhuman powers to achieve.**_
+_**The years teach much which the days never know.**_
 
-Napoleon Hill
+Ralph Waldo Emerson
