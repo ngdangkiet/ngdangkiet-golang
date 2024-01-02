@@ -1,3 +1,3 @@
-_**The years teach much which the days never know.**_
+_**I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.**_
 
-Ralph Waldo Emerson
+Bernard Shaw
