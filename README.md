@@ -1,3 +1,3 @@
-_**Take no thought of who is right or wrong or who is better than. Be not for or against.**_
+_**Know what's important and what isn't. Have the wisdom to know the right thing to do, the integrity to do it, the character to stand up to those who don't, and the courage to stop those who won't.**_
 
-Bruce Lee
+Mark Goulston
