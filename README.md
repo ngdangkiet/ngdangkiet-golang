@@ -1,3 +1,3 @@
-_**One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.**_
+_**As you walk down the fairway of life you must smell the roses, for you only get to play one round.**_
 
-Eleanor Roosevelt
+Ben Hogan
