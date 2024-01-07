@@ -1,3 +1,3 @@
-_**As you walk down the fairway of life you must smell the roses, for you only get to play one round.**_
+_**Life's most persistent and urgent question is, 'What are you doing for others?'**_
 
-Ben Hogan
+Martin Luther King Jr.
