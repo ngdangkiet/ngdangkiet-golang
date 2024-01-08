@@ -1,3 +1,3 @@
-_**Life's most persistent and urgent question is, 'What are you doing for others?'**_
+_**Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.**_
 
-Martin Luther King Jr.
+Margaret Laurence
