@@ -1,3 +1,3 @@
-_**Correction does much, but encouragement does more.**_
+_**Fear makes strangers of people who would be friends.**_
 
-Johann Wolfgang von Goethe
+Shirley MacLaine
