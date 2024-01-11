@@ -1,3 +1,3 @@
-_**Fear makes strangers of people who would be friends.**_
+_**Change is the law of life. And those who look only to the past or present are certain to miss the future.**_
 
-Shirley MacLaine
+John F. Kennedy
