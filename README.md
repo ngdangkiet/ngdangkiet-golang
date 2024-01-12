@@ -1,3 +1,3 @@
-_**Change is the law of life. And those who look only to the past or present are certain to miss the future.**_
+_**Adversity causes some men to break, others to break records.**_
 
-John F. Kennedy
+William Arthur Ward
