@@ -1,3 +1,3 @@
-_**Adversity causes some men to break, others to break records.**_
+_**It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means.**_
 
-William Arthur Ward
+Charles Kingsley
