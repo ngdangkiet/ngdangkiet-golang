@@ -1,3 +1,3 @@
-_**It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means.**_
+_**Opportunity does not knock, it presents itself when you beat down the door.**_
 
-Charles Kingsley
+Kyle Chandler
