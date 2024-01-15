@@ -1,3 +1,3 @@
-_**Opportunity does not knock, it presents itself when you beat down the door.**_
+_**Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.**_
 
-Kyle Chandler
+Rumi
