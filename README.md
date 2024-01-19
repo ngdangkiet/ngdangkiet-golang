@@ -1,3 +1,3 @@
-_**The greatest minds are capable of the greatest vices as well as of the greatest virtues.**_
+_**He who wishes to secure the good of others, has already secured his own.**_
 
-René Descartes
+Confucius
