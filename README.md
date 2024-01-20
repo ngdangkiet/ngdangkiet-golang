@@ -1,3 +1,3 @@
-_**He who wishes to secure the good of others, has already secured his own.**_
+_**Wisdom begins in wonder.**_
 
-Confucius
+Socrates
