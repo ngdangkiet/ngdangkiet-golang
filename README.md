@@ -1,3 +1,3 @@
-_**Wisdom begins in wonder.**_
+_**Wisdom comes alone through suffering.**_
 
-Socrates
+Aeschylus
