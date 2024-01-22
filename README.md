@@ -1,3 +1,3 @@
-_**Wisdom comes alone through suffering.**_
+_**He who knows himself is enlightened.**_
 
-Aeschylus
+Laozi
