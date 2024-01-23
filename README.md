@@ -1,3 +1,3 @@
-_**He who knows himself is enlightened.**_
+_**Everyone thinks of changing the world, but no one thinks of changing himself.**_
 
-Laozi
+Leo Tolstoy
