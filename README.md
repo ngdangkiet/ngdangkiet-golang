@@ -1,3 +1,3 @@
-_**Everyone thinks of changing the world, but no one thinks of changing himself.**_
+_**Conditions fall apart. Persist with diligence.**_
 
-Leo Tolstoy
+The Buddha
