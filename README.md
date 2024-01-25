@@ -1,3 +1,3 @@
-_**Conditions fall apart. Persist with diligence.**_
+_**The world is a book, and those who do not travel read only a page.**_
 
-The Buddha
+Augustine of Hippo
