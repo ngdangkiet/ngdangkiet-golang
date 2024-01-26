@@ -1,3 +1,3 @@
-_**The world is a book, and those who do not travel read only a page.**_
+_**A friend is a gift you give yourself.**_
 
-Augustine of Hippo
+Robert Louis Stevenson
