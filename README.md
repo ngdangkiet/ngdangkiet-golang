@@ -1,3 +1,3 @@
-_**A friend is a gift you give yourself.**_
+_**Beware lest you lose the substance by grasping at the shadow.**_
 
-Robert Louis Stevenson
+Aesop
