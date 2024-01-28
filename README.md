@@ -1,3 +1,3 @@
-_**Beware lest you lose the substance by grasping at the shadow.**_
+_**All that I am, or hope to be, I owe to my angel mother.**_
 
-Aesop
+Abraham Lincoln
