@@ -1,3 +1,3 @@
-_**All that I am, or hope to be, I owe to my angel mother.**_
+_**Read as you taste fruit or savor wine, or enjoy friendship, love or life.**_
 
-Abraham Lincoln
+George Herbert
