@@ -1,3 +1,3 @@
-_**Read as you taste fruit or savor wine, or enjoy friendship, love or life.**_
+_**Friendship increases in visiting friends, but in visiting them seldom.**_
 
-George Herbert
+Francis Bacon
