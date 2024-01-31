@@ -1,3 +1,3 @@
-_**Friendship increases in visiting friends, but in visiting them seldom.**_
+_**A man should look for what is, and not for what he thinks should be.**_
 
-Francis Bacon
+Albert Einstein
