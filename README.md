@@ -1,3 +1,3 @@
-_**Self-trust is the first secret of success.**_
+_**You are that vast thing that you see far, far off with great telescopes.**_
 
-Ralph Waldo Emerson
+Alan Watts
