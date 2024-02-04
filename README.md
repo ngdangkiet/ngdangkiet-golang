@@ -1,3 +1,3 @@
-_**You are that vast thing that you see far, far off with great telescopes.**_
+_**Never do things others can do and will do, if there are things others cannot do or will not do.**_
 
-Alan Watts
+Amelia Earhart
