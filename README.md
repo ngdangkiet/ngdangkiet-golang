@@ -1,3 +1,3 @@
-_**Never do things others can do and will do, if there are things others cannot do or will not do.**_
+_**We can only learn to love by loving.**_
 
-Amelia Earhart
+Iris Murdoch
