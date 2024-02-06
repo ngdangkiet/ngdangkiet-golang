@@ -1,3 +1,3 @@
-_**We can only learn to love by loving.**_
+_**Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.**_
 
-Iris Murdoch
+John Adams
