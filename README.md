@@ -1,3 +1,3 @@
-_**Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.**_
+_**The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.**_
 
-John Adams
+Seneca the Younger
