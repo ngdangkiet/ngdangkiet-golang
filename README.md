@@ -1,3 +1,3 @@
-_**The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.**_
+_**By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.**_
 
-Seneca the Younger
+Dalai Lama
