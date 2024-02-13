@@ -1,3 +1,3 @@
-_**Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.**_
+_**Kind words can be short and easy to speak, but their echoes are truly endless.**_
 
 Mother Teresa
