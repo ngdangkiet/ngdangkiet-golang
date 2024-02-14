@@ -1,3 +1,3 @@
-_**Kind words can be short and easy to speak, but their echoes are truly endless.**_
+_**I always wanted to be somebody, but I should have been more specific.**_
 
-Mother Teresa
+Lily Tomlin
