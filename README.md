@@ -1,3 +1,3 @@
-_**I always wanted to be somebody, but I should have been more specific.**_
+_**Freedom is what you do with what's been done to you.**_
 
-Lily Tomlin
+Jean-Paul Sartre
