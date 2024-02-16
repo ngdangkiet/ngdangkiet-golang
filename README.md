@@ -1,3 +1,3 @@
-_**Freedom is what you do with what's been done to you.**_
+_**All that I am, or hope to be, I owe to my angel mother.**_
 
-Jean-Paul Sartre
+Abraham Lincoln
