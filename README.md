@@ -1,3 +1,3 @@
-_**All that I am, or hope to be, I owe to my angel mother.**_
+_**Character develops itself in the stream of life.**_
 
-Abraham Lincoln
+Johann Wolfgang von Goethe
