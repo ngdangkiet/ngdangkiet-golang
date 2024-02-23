@@ -1,3 +1,3 @@
-_**The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.**_
+_**The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.**_
 
-Winston Churchill
+Anaïs Nin
