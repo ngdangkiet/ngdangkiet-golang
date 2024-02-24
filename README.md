@@ -1,3 +1,3 @@
-_**The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.**_
+_**The best thing about the future is that it only comes one day at a time.**_
 
-Anaïs Nin
+Abraham Lincoln
