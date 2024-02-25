@@ -1,3 +1,3 @@
-_**The best thing about the future is that it only comes one day at a time.**_
+_**Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over.**_
 
-Abraham Lincoln
+Octavia E. Butler
