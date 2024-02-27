@@ -1,3 +1,3 @@
-_**I have done my best: that is about all the philosophy of living one needs.**_
+_**Habit, if not resisted, soon becomes necessity.**_
 
-Lin Yutang
+Augustine of Hippo
