@@ -1,3 +1,3 @@
-_**Do not turn back when you are just at the goal.**_
+_**All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.**_
 
-Publilius Syrus
+Bruce Lee
