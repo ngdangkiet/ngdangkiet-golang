@@ -1,3 +1,3 @@
-_**All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.**_
+_**By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.**_
 
-Bruce Lee
+Thomas Carlyle
