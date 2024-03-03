@@ -1,3 +1,3 @@
-_**By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.**_
+_**Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.**_
 
-Thomas Carlyle
+David Rockefeller
