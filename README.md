@@ -1,3 +1,3 @@
-_**He who fears being conquered is sure of defeat.**_
+_**If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.**_
 
-Napoleon
+Daisaku Ikeda
