@@ -1,3 +1,3 @@
-_**If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.**_
+_**You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.**_
 
-Daisaku Ikeda
+Laurence J. Peter
