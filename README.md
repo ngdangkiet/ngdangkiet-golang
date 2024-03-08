@@ -1,3 +1,3 @@
-_**The best cure for the body is a quiet mind.**_
+_**The power of intuitive understanding will protect you from harm until the end of your days.**_
 
-Napoleon
+Laozi
