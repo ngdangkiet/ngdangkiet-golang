@@ -1,3 +1,3 @@
-_**The power of intuitive understanding will protect you from harm until the end of your days.**_
+_**These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.**_
 
-Laozi
+Vernon Cooper
