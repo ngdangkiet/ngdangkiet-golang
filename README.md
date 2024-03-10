@@ -1,3 +1,3 @@
-_**These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.**_
+_**Humanity is acquiring all the right technology for all the wrong reasons.**_
 
-Vernon Cooper
+Buckminster Fuller
