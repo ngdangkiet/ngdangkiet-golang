@@ -1,3 +1,3 @@
-_**Humanity is acquiring all the right technology for all the wrong reasons.**_
+_**A rolling stone gathers no moss.**_
 
-Buckminster Fuller
+Publilius Syrus
