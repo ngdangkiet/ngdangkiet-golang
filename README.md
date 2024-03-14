@@ -1,3 +1,3 @@
-_**To study and not think is a waste. To think and not study is dangerous.**_
+_**You cannot have what you do not want.**_
 
-Confucius
+John Acosta
