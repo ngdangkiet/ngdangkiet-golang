@@ -1,3 +1,3 @@
-_**You cannot have what you do not want.**_
+_**Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.**_
 
-John Acosta
+Norman Vincent Peale
