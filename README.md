@@ -1,3 +1,3 @@
-_**Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.**_
+_**God made me fast. And when I run, I feel His pleasure.**_
 
-Norman Vincent Peale
+Eric Liddell
