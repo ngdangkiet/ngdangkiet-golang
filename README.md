@@ -1,3 +1,3 @@
-_**God made me fast. And when I run, I feel His pleasure.**_
+_**Cleverness is not wisdom.**_
 
-Eric Liddell
+Euripides
