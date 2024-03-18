@@ -1,3 +1,3 @@
-_**Cleverness is not wisdom.**_
+_**Leave no stone unturned.**_
 
 Euripides
