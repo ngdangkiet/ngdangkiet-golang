@@ -1,3 +1,3 @@
-_**Leave no stone unturned.**_
+_**Wisdom is oftentimes nearer when we stoop than when we soar.**_
 
-Euripides
+William Wordsworth
