@@ -1,3 +1,3 @@
-_**Wisdom is oftentimes nearer when we stoop than when we soar.**_
+_**Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.**_
 
-William Wordsworth
+Benjamin Franklin
