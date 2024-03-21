@@ -1,3 +1,3 @@
-_**Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.**_
+_**It is not enough to have a good mind; the main thing is to use it well.**_
 
-Benjamin Franklin
+René Descartes
