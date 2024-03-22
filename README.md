@@ -1,3 +1,3 @@
-_**It is not enough to have a good mind; the main thing is to use it well.**_
+_**He who fears being conquered is sure of defeat.**_
 
-René Descartes
+Napoleon
