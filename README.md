@@ -1,3 +1,3 @@
-_**He who fears being conquered is sure of defeat.**_
+_**We don't stop playing because we grow old; we grow old because we stop playing.**_
 
-Napoleon
+Bernard Shaw
