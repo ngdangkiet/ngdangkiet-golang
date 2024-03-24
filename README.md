@@ -1,3 +1,3 @@
-_**We don't stop playing because we grow old; we grow old because we stop playing.**_
+_**Courage is going from failure to failure without losing enthusiasm.**_
 
-Bernard Shaw
+Winston Churchill
