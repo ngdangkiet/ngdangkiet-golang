@@ -1,3 +1,3 @@
-_**Courage is going from failure to failure without losing enthusiasm.**_
+_**The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.**_
 
-Winston Churchill
+Peter Abelard
