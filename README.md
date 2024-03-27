@@ -1,3 +1,3 @@
-_**Life isn't about finding yourself. Life is about creating yourself.**_
+_**If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.**_
 
-Bernard Shaw
+Elon Musk
