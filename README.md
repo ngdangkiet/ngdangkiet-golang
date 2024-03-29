@@ -1,3 +1,3 @@
-_**This is the final test of a gentleman: his respect for those who can be of no possible value to him.**_
+_**Some do not understand that we must die, But those who do realize this settle their quarrels.**_
 
-William Lyon Phelps
+The Buddha
