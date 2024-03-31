@@ -1,3 +1,3 @@
-_**If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.**_
+_**He who conquers others is strong; He who conquers himself is mighty.**_
 
-Morris West
+Laozi
