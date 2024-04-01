@@ -1,3 +1,3 @@
-_**He who conquers others is strong; He who conquers himself is mighty.**_
+_**I have often regretted my speech, never my silence.**_
 
-Laozi
+Publilius Syrus
