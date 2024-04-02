@@ -1,3 +1,3 @@
-_**I have often regretted my speech, never my silence.**_
+_**Those who dare to fail miserably can achieve greatly.**_
 
-Publilius Syrus
+John F. Kennedy
