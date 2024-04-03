@@ -1,3 +1,3 @@
-_**Those who dare to fail miserably can achieve greatly.**_
+_**All achievements, all earned riches, have their beginning in an idea.**_
 
-John F. Kennedy
+Napoleon Hill
