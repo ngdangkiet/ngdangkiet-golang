@@ -1,3 +1,3 @@
-_**All achievements, all earned riches, have their beginning in an idea.**_
+_**Things turn out best for those who make the best of the way things turn out.**_
 
-Napoleon Hill
+Jack Buck
