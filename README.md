@@ -1,3 +1,3 @@
-_**Things turn out best for those who make the best of the way things turn out.**_
+_**One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.**_
 
-Jack Buck
+Elbert Hubbard
