@@ -1,3 +1,3 @@
-_**One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.**_
+_**That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.**_
 
-Elbert Hubbard
+Martin Luther King Jr.
