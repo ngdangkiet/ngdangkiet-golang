@@ -1,3 +1,3 @@
-_**That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.**_
+_**Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.**_
 
-Martin Luther King Jr.
+Jane Addams
