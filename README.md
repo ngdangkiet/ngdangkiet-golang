@@ -1,3 +1,3 @@
-_**Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.**_
+_**Whatever we expect with confidence becomes our own self-fulfilling prophecy.**_
 
-Jane Addams
+Brian Tracy
