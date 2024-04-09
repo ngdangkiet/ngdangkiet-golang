@@ -1,3 +1,3 @@
-_**Whatever we expect with confidence becomes our own self-fulfilling prophecy.**_
+_**If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.**_
 
-Brian Tracy
+Barack Obama
