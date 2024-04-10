@@ -1,3 +1,3 @@
-_**If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.**_
+_**The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.**_
 
-Barack Obama
+Kahlil Gibran
