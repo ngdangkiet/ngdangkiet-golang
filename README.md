@@ -1,3 +1,3 @@
-_**You must do the things you think you cannot do.**_
+_**Nothing is at last sacred but the integrity of your own mind.**_
 
-Eleanor Roosevelt
+Ralph Waldo Emerson
