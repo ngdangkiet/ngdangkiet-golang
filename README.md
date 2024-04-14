@@ -1,3 +1,3 @@
-_**Technology presumes there's just one right way to do things and there never is.**_
+_**Start with what is right rather than what is acceptable.**_
 
-Robert M. Pirsig
+Franz Kafka
