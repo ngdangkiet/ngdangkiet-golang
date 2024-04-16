@@ -1,3 +1,3 @@
-_**Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.**_
+_**Cunning... is but the low mimic of wisdom.**_
 
-Charles Lindbergh
+Plato
