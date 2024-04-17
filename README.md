@@ -1,3 +1,3 @@
-_**Cunning... is but the low mimic of wisdom.**_
+_**Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.**_
 
-Plato
+Albert Einstein
