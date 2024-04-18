@@ -1,3 +1,3 @@
-_**Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.**_
+_**Feeling and longing are the motive forces behind all human endeavor and human creations.**_
 
 Albert Einstein
