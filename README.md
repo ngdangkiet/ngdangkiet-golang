@@ -1,3 +1,3 @@
-_**Feeling and longing are the motive forces behind all human endeavor and human creations.**_
+_**'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill.**_
 
-Albert Einstein
+The Buddha
