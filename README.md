@@ -1,3 +1,3 @@
-_**'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill.**_
+_**If one does not know to which port is sailing, no wind is favorable.**_
 
-The Buddha
+Seneca the Younger
