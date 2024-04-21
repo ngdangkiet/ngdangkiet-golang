@@ -1,3 +1,3 @@
-_**If one does not know to which port is sailing, no wind is favorable.**_
+_**A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.**_
 
-Seneca the Younger
+Basil of Caesarea
