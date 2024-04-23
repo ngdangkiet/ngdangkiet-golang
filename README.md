@@ -1,3 +1,3 @@
-_**He who knows himself is enlightened.**_
+_**Lose an hour in the morning, and you will spend all day looking for it.**_
 
-Laozi
+Richard Whately
