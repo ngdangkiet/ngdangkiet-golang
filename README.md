@@ -1,3 +1,3 @@
-_**Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.**_
+_**America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.**_
 
-Abraham Lincoln
+Parker Palmer
