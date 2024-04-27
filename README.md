@@ -1,3 +1,3 @@
-_**Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.**_
+_**You can't choose up sides on a round world.**_
 
-Rumi
+Wayne Dyer
