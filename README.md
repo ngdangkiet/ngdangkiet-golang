@@ -1,3 +1,3 @@
-_**I think people who are creative are the luckiest people on earth. I know that there are no shortcuts, but you must keep your faith in something Greater than you and keep doing what you love. Do what you love, and you will find the way to get it out to the world.**_
+_**We are stuck with technology when what we really want is just stuff that works.**_
 
-Judy Collins
+Douglas Adams
