@@ -1,3 +1,3 @@
-_**We are stuck with technology when what we really want is just stuff that works.**_
+_**When a thing is done, it's done. Don't look back. Look forward to your next objective.**_
 
-Douglas Adams
+George Marshall
