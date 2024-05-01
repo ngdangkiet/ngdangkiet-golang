@@ -1,3 +1,3 @@
-_**When a thing is done, it's done. Don't look back. Look forward to your next objective.**_
+_**The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.**_
 
-George Marshall
+Kahlil Gibran
