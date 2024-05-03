@@ -1,3 +1,3 @@
-_**The secret of getting ahead is getting started.**_
+_**We are all something, but none of us are everything.**_
 
-Mark Twain
+Blaise Pascal
