@@ -1,3 +1,3 @@
-_**We are all something, but none of us are everything.**_
+_**Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.**_
 
-Blaise Pascal
+Arthur Conan Doyle
