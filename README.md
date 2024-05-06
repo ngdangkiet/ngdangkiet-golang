@@ -1,3 +1,3 @@
-_**Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.**_
+_**From wonder into wonder existence opens.**_
 
-Arthur Conan Doyle
+Laozi
