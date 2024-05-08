@@ -1,3 +1,3 @@
-_**I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.**_
+_**Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing.**_
 
-Yolanda Hadid
+The Buddha
