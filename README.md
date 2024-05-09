@@ -1,3 +1,3 @@
-_**Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing.**_
+_**Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.**_
 
-The Buddha
+Sophocles
