@@ -1,3 +1,3 @@
-_**Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.**_
+_**I believe in one thing only, the power of human will.**_
 
-Sophocles
+Joseph Stalin
