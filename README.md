@@ -1,3 +1,3 @@
-_**I believe in one thing only, the power of human will.**_
+_**Make it your habit not to be critical about small things.**_
 
-Joseph Stalin
+Edward Everett Hale
