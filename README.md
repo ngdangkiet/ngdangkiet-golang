@@ -1,3 +1,3 @@
-_**Make it your habit not to be critical about small things.**_
+_**Knowledge is proud that it knows so much; wisdom is humble that it knows no more.**_
 
-Edward Everett Hale
+William Cowper
