@@ -1,3 +1,3 @@
-_**Knowledge is proud that it knows so much; wisdom is humble that it knows no more.**_
+_**We don't stop playing because we grow old; we grow old because we stop playing.**_
 
-William Cowper
+Bernard Shaw
