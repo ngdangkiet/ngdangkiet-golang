@@ -1,3 +1,3 @@
-_**We don't stop playing because we grow old; we grow old because we stop playing.**_
+_**A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.**_
 
-Bernard Shaw
+Joseph Roux
