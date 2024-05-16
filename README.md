@@ -1,3 +1,3 @@
-_**Be yourself; everyone else is already taken.**_
+_**Science and technology revolutionize our lives, but memory, tradition and myth frame our response.**_
 
-Oscar Wilde
+Arthur M. Schlesinger Jr.
