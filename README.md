@@ -1,3 +1,3 @@
-_**Science and technology revolutionize our lives, but memory, tradition and myth frame our response.**_
+_**Faith in oneself is the best and safest course.**_
 
-Arthur M. Schlesinger Jr.
+Michelangelo
