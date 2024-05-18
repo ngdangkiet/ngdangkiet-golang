@@ -1,3 +1,3 @@
-_**Faith in oneself is the best and safest course.**_
+_**To succeed, we must first believe that we can.**_
 
-Michelangelo
+Michael Korda
