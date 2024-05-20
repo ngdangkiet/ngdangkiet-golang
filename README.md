@@ -1,3 +1,3 @@
-_**I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.**_
+_**To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.**_
 
-Woody Allen
+Tony Robbins
