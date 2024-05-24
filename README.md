@@ -1,3 +1,3 @@
-_**If you do not change direction, you may end up where you are heading.**_
+_**It is impossible to experience one's death objectively and still carry a tune.**_
 
-Laozi
+Woody Allen
