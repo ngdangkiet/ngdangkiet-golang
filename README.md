@@ -1,3 +1,3 @@
-_**It is impossible to experience one's death objectively and still carry a tune.**_
+_**Action is the foundational key to all success.**_
 
-Woody Allen
+Pablo Picasso
