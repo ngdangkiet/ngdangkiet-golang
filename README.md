@@ -1,3 +1,3 @@
-_**Action is the foundational key to all success.**_
+_**Genuine sincerity opens people's hearts, while manipulation causes them to close.**_
 
-Pablo Picasso
+Daisaku Ikeda
