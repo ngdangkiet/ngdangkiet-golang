@@ -1,3 +1,3 @@
-_**Genuine sincerity opens people's hearts, while manipulation causes them to close.**_
+_**Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit.**_
 
-Daisaku Ikeda
+Elbert Hubbard
