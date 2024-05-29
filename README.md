@@ -1,3 +1,3 @@
-_**Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.**_
+_**Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'**_
 
-Kahlil Gibran
+Bill Bradley
