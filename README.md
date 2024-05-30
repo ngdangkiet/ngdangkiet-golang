@@ -1,3 +1,3 @@
-_**Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'**_
+_**It is good even for old men to learn wisdom.**_
 
-Bill Bradley
+Aeschylus
