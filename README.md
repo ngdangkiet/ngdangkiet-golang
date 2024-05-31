@@ -1,3 +1,3 @@
-_**It is good even for old men to learn wisdom.**_
+_**If the stars should appear but one night every thousand years how man would marvel and adore.**_
 
-Aeschylus
+Ralph Waldo Emerson
