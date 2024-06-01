@@ -1,3 +1,3 @@
-_**If the stars should appear but one night every thousand years how man would marvel and adore.**_
+_**Love doesn't make the world go round; love is what makes the ride worthwhile.**_
 
-Ralph Waldo Emerson
+Elizabeth Browning
