@@ -1,3 +1,3 @@
-_**Love doesn't make the world go round; love is what makes the ride worthwhile.**_
+_**There never was a good knife made of bad steel.**_
 
-Elizabeth Browning
+Benjamin Franklin
