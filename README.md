@@ -1,3 +1,3 @@
-_**There never was a good knife made of bad steel.**_
+_**A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.**_
 
-Benjamin Franklin
+David Brinkley
