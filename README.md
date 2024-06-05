@@ -1,3 +1,3 @@
-_**Knowledge is proud that it knows so much; wisdom is humble that it knows no more.**_
+_**Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.**_
 
-William Cowper
+Franklin D. Roosevelt
