@@ -1,3 +1,3 @@
-_**Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.**_
+_**Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.**_
 
-Franklin D. Roosevelt
+Nikola Tesla
