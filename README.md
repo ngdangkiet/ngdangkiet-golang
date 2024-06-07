@@ -1,3 +1,3 @@
-_**Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.**_
+_**All I can say about life is, Oh God, enjoy it!**_
 
-Nikola Tesla
+Bob Newhart
