@@ -1,3 +1,3 @@
-_**All I can say about life is, Oh God, enjoy it!**_
+_**Genius unrefined resembles a flash of lightning, but wisdom is like the sun.**_
 
-Bob Newhart
+Franz Grillparzer
