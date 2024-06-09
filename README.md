@@ -1,3 +1,3 @@
-_**Genius unrefined resembles a flash of lightning, but wisdom is like the sun.**_
+_**A man is not old as long as he is seeking something.**_
 
-Franz Grillparzer
+Edmond Rostand
