@@ -1,3 +1,3 @@
-_**The wisest men follow their own direction.**_
+_**Love is rarer than genius itself. And friendship is rarer than love.**_
 
-Euripides
+Charles Péguy
