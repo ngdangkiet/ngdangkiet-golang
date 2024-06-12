@@ -1,3 +1,3 @@
-_**Love is rarer than genius itself. And friendship is rarer than love.**_
+_**Nothing will work unless you do.**_
 
-Charles Péguy
+Maya Angelou
