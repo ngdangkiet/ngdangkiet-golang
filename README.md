@@ -1,3 +1,3 @@
-_**Nothing will work unless you do.**_
+_**We are what we repeatedly do. Excellence, then, is not an act, but a habit.**_
 
-Maya Angelou
+Aristotle
