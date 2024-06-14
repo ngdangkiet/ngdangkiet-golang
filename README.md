@@ -1,3 +1,3 @@
-_**We are what we repeatedly do. Excellence, then, is not an act, but a habit.**_
+_**Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.**_
 
-Aristotle
+Maya Angelou
