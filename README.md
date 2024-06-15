@@ -1,3 +1,3 @@
-_**Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.**_
+_**You can't win unless you learn how to lose.**_
 
-Maya Angelou
+Kareem Abdul-Jabbar
