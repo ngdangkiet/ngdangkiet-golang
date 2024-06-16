@@ -1,3 +1,3 @@
-_**You can't win unless you learn how to lose.**_
+_**There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.**_
 
-Kareem Abdul-Jabbar
+Albert Einstein
