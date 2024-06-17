@@ -1,3 +1,3 @@
-_**There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.**_
+_**Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.**_
 
-Albert Einstein
+George S. Patton
