@@ -1,3 +1,3 @@
-_**Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.**_
+_**Give whatever you are doing and whoever you are with the gift of your attention.**_
 
-George S. Patton
+Jim Rohn
