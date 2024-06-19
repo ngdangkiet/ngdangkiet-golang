@@ -1,3 +1,3 @@
-_**Give whatever you are doing and whoever you are with the gift of your attention.**_
+_**The smaller the mind the greater the conceit.**_
 
-Jim Rohn
+Aesop
