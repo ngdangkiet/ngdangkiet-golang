@@ -1,3 +1,3 @@
-_**The smaller the mind the greater the conceit.**_
+_**A creative man is motivated by the desire to achieve, not by the desire to beat others.**_
 
-Aesop
+Ayn Rand
