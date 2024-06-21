@@ -1,3 +1,3 @@
-_**A creative man is motivated by the desire to achieve, not by the desire to beat others.**_
+_**There is no great genius without some touch of madness.**_
 
-Ayn Rand
+Seneca the Younger
