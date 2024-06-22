@@ -1,3 +1,3 @@
-_**There is no great genius without some touch of madness.**_
+_**It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.**_
 
-Seneca the Younger
+Pema Chödrön
