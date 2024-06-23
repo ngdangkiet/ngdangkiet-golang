@@ -1,3 +1,3 @@
-_**It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.**_
+_**Three things cannot be long hidden: the sun, the moon, and the truth.**_
 
-Pema Chödrön
+The Buddha
