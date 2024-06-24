@@ -1,3 +1,3 @@
-_**Three things cannot be long hidden: the sun, the moon, and the truth.**_
+_**The noblest worship is to make yourself as good and as just as you can.**_
 
-The Buddha
+Isocrates
