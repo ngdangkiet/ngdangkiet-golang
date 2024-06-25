@@ -1,3 +1,3 @@
-_**The noblest worship is to make yourself as good and as just as you can.**_
+_**I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.**_
 
-Isocrates
+Kurt Vonnegut
