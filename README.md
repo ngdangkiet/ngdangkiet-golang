@@ -1,3 +1,3 @@
-_**I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.**_
+_**How is it possible that a being with such sensitive jewels as the eyes, such enchanted musical instruments as the ears, and such fabulous arabesque of nerves as the brain can experience itself anything less than a god.**_
 
-Kurt Vonnegut
+Alan Watts
