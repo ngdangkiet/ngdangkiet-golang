@@ -1,3 +1,3 @@
-_**Life is like riding a bicycle. To keep your balance you must keep moving.**_
+_**Time stays long enough for anyone who will use it.**_
 
-Albert Einstein
+Leonardo da Vinci
