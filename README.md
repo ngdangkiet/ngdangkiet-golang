@@ -1,3 +1,3 @@
-_**Time stays long enough for anyone who will use it.**_
+_**It does not matter how slowly you go as long as you do not stop.**_
 
-Leonardo da Vinci
+Confucius
