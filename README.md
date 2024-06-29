@@ -1,3 +1,3 @@
-_**It does not matter how slowly you go as long as you do not stop.**_
+_**To follow, without halt, one aim: There is the secret of success.**_
 
-Confucius
+Anna Pavlova
