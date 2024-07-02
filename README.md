@@ -1,3 +1,3 @@
-_**Keep your eyes on the stars and your feet on the ground.**_
+_**A man should look for what is, and not for what he thinks should be.**_
 
-Theodore Roosevelt
+Albert Einstein
