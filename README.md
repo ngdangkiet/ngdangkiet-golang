@@ -1,3 +1,3 @@
-_**A man should look for what is, and not for what he thinks should be.**_
+_**The best preparation for tomorrow is doing your best today.**_
 
-Albert Einstein
+H. Jackson Brown Jr.
