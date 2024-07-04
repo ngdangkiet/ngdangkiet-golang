@@ -1,3 +1,3 @@
-_**The best preparation for tomorrow is doing your best today.**_
+_**You won't skid if you stay in a rut.**_
 
-H. Jackson Brown Jr.
+Kin Hubbard
