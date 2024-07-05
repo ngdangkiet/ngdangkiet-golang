@@ -1,3 +1,3 @@
-_**You won't skid if you stay in a rut.**_
+_**Anybody can make history. Only a great man can write it.**_
 
-Kin Hubbard
+Oscar Wilde
