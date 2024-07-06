@@ -1,3 +1,3 @@
-_**Anybody can make history. Only a great man can write it.**_
+_**This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.**_
 
-Oscar Wilde
+Thomas Carlyle
