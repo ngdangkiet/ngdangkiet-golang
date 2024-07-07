@@ -1,3 +1,3 @@
-_**This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.**_
+_**With age comes wisdom and a high sex drive. And the wisdom to enjoy it.**_
 
-Thomas Carlyle
+Amber Valletta
