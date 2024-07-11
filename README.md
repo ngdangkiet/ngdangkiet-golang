@@ -1,3 +1,3 @@
-_**Be here now. Be someplace else later. Is that so complicated?**_
+_**I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise.**_
 
-David Bader
+John Keats
