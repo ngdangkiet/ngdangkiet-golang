@@ -1,3 +1,3 @@
-_**Always keep your mind as bright and clear as the vast sky, the great ocean, and the highest peak, empty of all thoughts. Always keep your body filled with light and heat. Fill yourself with the power of wisdom and enlightenment.**_
+_**People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.**_
 
-Morihei Ueshiba
+Rogers Hornsby
