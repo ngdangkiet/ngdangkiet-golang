@@ -1,3 +1,3 @@
-_**People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.**_
+_**Football is football and talent is talent. But the mindset of your team makes all the difference.**_
 
-Rogers Hornsby
+Robert Griffin III
