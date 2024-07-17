@@ -1,3 +1,3 @@
-_**Football is football and talent is talent. But the mindset of your team makes all the difference.**_
+_**I think somehow, we learn who we really are and then live with that decision.**_
 
-Robert Griffin III
+Eleanor Roosevelt
