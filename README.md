@@ -1,3 +1,3 @@
-_**I think somehow, we learn who we really are and then live with that decision.**_
+_**Never put off till tomorrow what you can do today.**_
 
-Eleanor Roosevelt
+Thomas Jefferson
