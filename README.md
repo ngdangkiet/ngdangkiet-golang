@@ -1,3 +1,3 @@
-_**Never put off till tomorrow what you can do today.**_
+_**Who sows virtue reaps honor.**_
 
-Thomas Jefferson
+Leonardo da Vinci
