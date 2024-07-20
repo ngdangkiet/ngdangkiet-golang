@@ -1,3 +1,3 @@
-_**Who sows virtue reaps honor.**_
+_**A short saying often contains much wisdom.**_
 
-Leonardo da Vinci
+Sophocles
