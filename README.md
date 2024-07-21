@@ -1,3 +1,3 @@
-_**A short saying often contains much wisdom.**_
+_**Luck is what happens when preparation meets opportunity.**_
 
-Sophocles
+Seneca the Younger
