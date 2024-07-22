@@ -1,3 +1,3 @@
-_**Luck is what happens when preparation meets opportunity.**_
+_**The free man is he who does not fear to go to the end of his thought.**_
 
-Seneca the Younger
+Léon Blum
