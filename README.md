@@ -1,3 +1,3 @@
-_**The free man is he who does not fear to go to the end of his thought.**_
+_**A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.**_
 
-Léon Blum
+George Bernard Shaw
