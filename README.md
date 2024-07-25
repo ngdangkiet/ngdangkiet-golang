@@ -1,3 +1,3 @@
-_**Whatever happens, take responsibility.**_
+_**The smallest deed is better than the greatest intention.**_
 
-Tony Robbins
+John Burroughs
