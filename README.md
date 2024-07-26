@@ -1,3 +1,3 @@
-_**The smallest deed is better than the greatest intention.**_
+_**Everything in the universe goes by indirection. There are no straight lines.**_
 
-John Burroughs
+Ralph Waldo Emerson
