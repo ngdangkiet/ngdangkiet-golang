@@ -1,3 +1,3 @@
-_**Everything in the universe goes by indirection. There are no straight lines.**_
+_**Courage is not the absence of fear, but simply moving on with dignity despite that fear.**_
 
-Ralph Waldo Emerson
+Pat Riley
