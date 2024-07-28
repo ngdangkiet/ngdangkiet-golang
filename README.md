@@ -1,3 +1,3 @@
-_**Courage is not the absence of fear, but simply moving on with dignity despite that fear.**_
+_**I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.**_
 
-Pat Riley
+Woody Allen
