@@ -1,3 +1,3 @@
-_**I believe in one thing only, the power of human will.**_
+_**Commitment is an act, not a word.**_
 
-Joseph Stalin
+Jean-Paul Sartre
