@@ -1,3 +1,3 @@
-_**Commitment is an act, not a word.**_
+_**Some do not understand that we must die, But those who do realize this settle their quarrels.**_
 
-Jean-Paul Sartre
+The Buddha
