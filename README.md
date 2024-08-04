@@ -1,3 +1,3 @@
-_**Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.**_
+_**One that desires to excel should endeavor in those things that are in themselves most excellent.**_
 
-William Blake
+Epictetus
