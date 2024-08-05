@@ -1,3 +1,3 @@
-_**One that desires to excel should endeavor in those things that are in themselves most excellent.**_
+_**There is a wisdom of the head, and a wisdom of the heart.**_
 
-Epictetus
+Charles Dickens
