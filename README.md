@@ -1,3 +1,3 @@
-_**There is a wisdom of the head, and a wisdom of the heart.**_
+_**The art challenges the technology, and the technology inspires the art.**_
 
-Charles Dickens
+John Lasseter
