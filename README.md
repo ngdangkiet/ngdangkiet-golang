@@ -1,3 +1,3 @@
-_**The art challenges the technology, and the technology inspires the art.**_
+_**Write your plans in pencil and give God the eraser.**_
 
-John Lasseter
+Paulo Coelho
