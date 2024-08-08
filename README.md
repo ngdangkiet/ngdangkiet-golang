@@ -1,3 +1,3 @@
-_**Write your plans in pencil and give God the eraser.**_
+_**Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.**_
 
-Paulo Coelho
+Melody Beattie
