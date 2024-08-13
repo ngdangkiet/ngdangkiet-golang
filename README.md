@@ -1,3 +1,3 @@
-_**When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.**_
+_**Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.**_
 
-Helen Keller
+Aristotle
