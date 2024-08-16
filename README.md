@@ -1,3 +1,3 @@
-_**All serious daring starts from within.**_
+_**Nature takes away any faculty that is not used.**_
 
-Harriet Beecher Stowe
+William Inge
