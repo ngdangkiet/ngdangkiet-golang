@@ -1,3 +1,3 @@
-_**Nature takes away any faculty that is not used.**_
+_**I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.**_
 
-William Inge
+Og Mandino
