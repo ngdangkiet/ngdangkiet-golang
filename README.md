@@ -1,3 +1,3 @@
-_**I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.**_
+_**To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.**_
 
-Og Mandino
+Henri Bergson
