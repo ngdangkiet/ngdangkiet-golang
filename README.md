@@ -1,3 +1,3 @@
-_**To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.**_
+_**The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.**_
 
-Henri Bergson
+Daniel J. Boorstin
