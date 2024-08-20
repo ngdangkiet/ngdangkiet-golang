@@ -1,3 +1,3 @@
-_**The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.**_
+_**There is no greater harm than that of time wasted.**_
 
-Daniel J. Boorstin
+Michelangelo
