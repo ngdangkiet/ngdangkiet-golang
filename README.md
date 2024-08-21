@@ -1,3 +1,3 @@
-_**There is no greater harm than that of time wasted.**_
+_**The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.**_
 
-Michelangelo
+Helen Keller
