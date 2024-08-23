@@ -1,3 +1,3 @@
-_**Keep yourself to the sunshine and you cannot see the shadow.**_
+_**Experience is simply the name we give our mistakes.**_
 
-Helen Keller
+Oscar Wilde
