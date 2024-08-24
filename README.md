@@ -1,3 +1,3 @@
-_**Experience is simply the name we give our mistakes.**_
+_**Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.**_
 
-Oscar Wilde
+Ralph Waldo Emerson
