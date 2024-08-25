@@ -1,3 +1,3 @@
-_**Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.**_
+_**Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.**_
 
-Ralph Waldo Emerson
+Albert Einstein
