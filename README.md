@@ -1,3 +1,3 @@
-_**Imagination is the highest kite one can fly.**_
+_**I begin with an idea and then it becomes something else.**_
 
-Lauren Bacall
+Pablo Picasso
