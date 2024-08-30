@@ -1,3 +1,3 @@
-_**I begin with an idea and then it becomes something else.**_
+_**He who wishes to secure the good of others, has already secured his own.**_
 
-Pablo Picasso
+Confucius
