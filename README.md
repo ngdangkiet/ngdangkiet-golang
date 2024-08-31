@@ -1,3 +1,3 @@
-_**He who wishes to secure the good of others, has already secured his own.**_
+_**The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.**_
 
-Confucius
+Laozi
