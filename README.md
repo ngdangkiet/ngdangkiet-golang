@@ -1,3 +1,3 @@
-_**The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.**_
+_**Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.**_
 
-Laozi
+Ralph Marston
