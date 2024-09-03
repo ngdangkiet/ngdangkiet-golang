@@ -1,3 +1,3 @@
-_**Friendship is essentially a partnership.**_
+_**If you have knowledge, let others light their candles in it.**_
 
-Aristotle
+Margaret Fuller
