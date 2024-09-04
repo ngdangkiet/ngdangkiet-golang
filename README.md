@@ -1,3 +1,3 @@
-_**If you have knowledge, let others light their candles in it.**_
+_**Friendship is the marriage of the soul, and this marriage is liable to divorce.**_
 
-Margaret Fuller
+Voltaire
