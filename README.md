@@ -1,3 +1,3 @@
-_**If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.**_
+_**The time to repair the roof is when the sun is shining.**_
 
-Rachel Carson
+John F. Kennedy
