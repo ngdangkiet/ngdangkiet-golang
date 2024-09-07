@@ -1,3 +1,3 @@
-_**The time to repair the roof is when the sun is shining.**_
+_**You can't choose up sides on a round world.**_
 
-John F. Kennedy
+Wayne Dyer
