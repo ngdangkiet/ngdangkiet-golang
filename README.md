@@ -1,3 +1,3 @@
-_**You can't choose up sides on a round world.**_
+_**A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.**_
 
-Wayne Dyer
+George Bernard Shaw
