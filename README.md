@@ -1,3 +1,3 @@
-_**A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.**_
+_**Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.**_
 
-George Bernard Shaw
+Norman Vincent Peale
